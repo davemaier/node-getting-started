@@ -13,7 +13,7 @@ spec:
         app: hello-world
     spec:
       containers:
-      - image: okteto/hello-world:node
+      - image: atempocfs/okteto-testrun
         name: hello-world
 
 ---
